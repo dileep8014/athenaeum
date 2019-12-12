@@ -101,14 +101,7 @@ ShallowWrapper {
       "children": Array [
         <Col
           borderColor="neutral-6"
-          bottomSpacing={undefined}
-          flex={undefined}
-          fullwidth={undefined}
-          largeCols={undefined}
-          mediumCols={undefined}
           smallCols={1}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="child"
@@ -116,15 +109,8 @@ ShallowWrapper {
         </Col>,
         <Col
           borderColor="neutral-6"
-          bottomSpacing={undefined}
           className="child"
-          flex={undefined}
-          fullwidth={undefined}
-          largeCols={undefined}
-          mediumCols={undefined}
           smallCols={1}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         />,
       ],
       "className": "layout",
@@ -197,14 +183,7 @@ ShallowWrapper {
         "children": Array [
           <Col
             borderColor="neutral-6"
-            bottomSpacing={undefined}
-            flex={undefined}
-            fullwidth={undefined}
-            largeCols={undefined}
-            mediumCols={undefined}
             smallCols={1}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="child"
@@ -212,15 +191,8 @@ ShallowWrapper {
           </Col>,
           <Col
             borderColor="neutral-6"
-            bottomSpacing={undefined}
             className="child"
-            flex={undefined}
-            fullwidth={undefined}
-            largeCols={undefined}
-            mediumCols={undefined}
             smallCols={1}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           />,
         ],
         "className": "layout",
@@ -345,13 +317,10 @@ ShallowWrapper {
         <Col
           borderColor="neutral-6"
           bottomSpacing="xLarge"
-          flex={undefined}
           fullwidth={true}
           largeCols={7}
           mediumCols={6}
           smallCols={1}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="child"
@@ -360,13 +329,10 @@ ShallowWrapper {
         <Col
           borderColor="neutral-6"
           bottomSpacing="xLarge"
-          flex={undefined}
           fullwidth={true}
           largeCols={5}
           mediumCols={6}
           smallCols={1}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="child"
@@ -456,13 +422,10 @@ ShallowWrapper {
           <Col
             borderColor="neutral-6"
             bottomSpacing="xLarge"
-            flex={undefined}
             fullwidth={true}
             largeCols={7}
             mediumCols={6}
             smallCols={1}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="child"
@@ -471,13 +434,10 @@ ShallowWrapper {
           <Col
             borderColor="neutral-6"
             bottomSpacing="xLarge"
-            flex={undefined}
             fullwidth={true}
             largeCols={5}
             mediumCols={6}
             smallCols={1}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="child"
@@ -571,8 +531,6 @@ ShallowWrapper {
 exports[`<Layout /> renders correctly 1`] = `
 <div
   className="layout"
-  id={undefined}
-  style={undefined}
 />
 `;
 
@@ -616,14 +574,7 @@ ShallowWrapper {
       "children": Array [
         <Col
           borderColor="neutral-6"
-          bottomSpacing={undefined}
-          flex={undefined}
-          fullwidth={undefined}
-          largeCols={undefined}
-          mediumCols={undefined}
           smallCols={1}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="child"
@@ -631,14 +582,7 @@ ShallowWrapper {
         </Col>,
         <Col
           borderColor="neutral-6"
-          bottomSpacing={undefined}
-          flex={undefined}
-          fullwidth={undefined}
-          largeCols={undefined}
-          mediumCols={undefined}
           smallCols={1}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="some-child"
@@ -646,14 +590,7 @@ ShallowWrapper {
         </Col>,
         <Col
           borderColor="neutral-6"
-          bottomSpacing={undefined}
-          flex={undefined}
-          fullwidth={undefined}
-          largeCols={undefined}
-          mediumCols={undefined}
           smallCols={1}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="child"
@@ -774,14 +711,7 @@ ShallowWrapper {
         "children": Array [
           <Col
             borderColor="neutral-6"
-            bottomSpacing={undefined}
-            flex={undefined}
-            fullwidth={undefined}
-            largeCols={undefined}
-            mediumCols={undefined}
             smallCols={1}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="child"
@@ -789,14 +719,7 @@ ShallowWrapper {
           </Col>,
           <Col
             borderColor="neutral-6"
-            bottomSpacing={undefined}
-            flex={undefined}
-            fullwidth={undefined}
-            largeCols={undefined}
-            mediumCols={undefined}
             smallCols={1}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="some-child"
@@ -804,14 +727,7 @@ ShallowWrapper {
           </Col>,
           <Col
             borderColor="neutral-6"
-            bottomSpacing={undefined}
-            flex={undefined}
-            fullwidth={undefined}
-            largeCols={undefined}
-            mediumCols={undefined}
             smallCols={1}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="child"
@@ -976,14 +892,8 @@ ShallowWrapper {
       "children": Array [
         <Col
           borderColor="neutral-6"
-          bottomSpacing={undefined}
-          flex={undefined}
-          fullwidth={undefined}
           largeCols={7}
-          mediumCols={undefined}
           smallCols={12}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="child"
@@ -991,14 +901,8 @@ ShallowWrapper {
         </Col>,
         <Col
           borderColor="neutral-6"
-          bottomSpacing={undefined}
-          flex={undefined}
-          fullwidth={undefined}
           largeCols={5}
-          mediumCols={undefined}
           smallCols={12}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="child"
@@ -1087,14 +991,8 @@ ShallowWrapper {
         "children": Array [
           <Col
             borderColor="neutral-6"
-            bottomSpacing={undefined}
-            flex={undefined}
-            fullwidth={undefined}
             largeCols={7}
-            mediumCols={undefined}
             smallCols={12}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="child"
@@ -1102,14 +1000,8 @@ ShallowWrapper {
           </Col>,
           <Col
             borderColor="neutral-6"
-            bottomSpacing={undefined}
-            flex={undefined}
-            fullwidth={undefined}
             largeCols={5}
-            mediumCols={undefined}
             smallCols={12}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="child"
@@ -1245,14 +1137,7 @@ ShallowWrapper {
       "children": Array [
         <Col
           borderColor="neutral-6"
-          bottomSpacing={undefined}
-          flex={undefined}
-          fullwidth={undefined}
-          largeCols={undefined}
-          mediumCols={undefined}
           smallCols={1}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="child"
@@ -1260,14 +1145,7 @@ ShallowWrapper {
         </Col>,
         <Col
           borderColor="neutral-6"
-          bottomSpacing={undefined}
-          flex={undefined}
-          fullwidth={undefined}
-          largeCols={undefined}
-          mediumCols={undefined}
           smallCols={3}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="one-off"
@@ -1275,14 +1153,7 @@ ShallowWrapper {
         </Col>,
         <Col
           borderColor="neutral-6"
-          bottomSpacing={undefined}
-          flex={undefined}
-          fullwidth={undefined}
-          largeCols={undefined}
-          mediumCols={undefined}
           smallCols={1}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="child"
@@ -1403,14 +1274,7 @@ ShallowWrapper {
         "children": Array [
           <Col
             borderColor="neutral-6"
-            bottomSpacing={undefined}
-            flex={undefined}
-            fullwidth={undefined}
-            largeCols={undefined}
-            mediumCols={undefined}
             smallCols={1}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="child"
@@ -1418,14 +1282,7 @@ ShallowWrapper {
           </Col>,
           <Col
             borderColor="neutral-6"
-            bottomSpacing={undefined}
-            flex={undefined}
-            fullwidth={undefined}
-            largeCols={undefined}
-            mediumCols={undefined}
             smallCols={3}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="one-off"
@@ -1433,14 +1290,7 @@ ShallowWrapper {
           </Col>,
           <Col
             borderColor="neutral-6"
-            bottomSpacing={undefined}
-            flex={undefined}
-            fullwidth={undefined}
-            largeCols={undefined}
-            mediumCols={undefined}
             smallCols={1}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="child"
@@ -1603,14 +1453,7 @@ ShallowWrapper {
       "children": Array [
         <Col
           borderColor="neutral-6"
-          bottomSpacing={undefined}
-          flex={undefined}
-          fullwidth={undefined}
-          largeCols={undefined}
-          mediumCols={undefined}
           smallCols={1}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="child"
@@ -1618,14 +1461,7 @@ ShallowWrapper {
         </Col>,
         <Col
           borderColor="neutral-6"
-          bottomSpacing={undefined}
-          flex={undefined}
-          fullwidth={undefined}
-          largeCols={undefined}
-          mediumCols={undefined}
           smallCols={1}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="child"
@@ -1633,14 +1469,7 @@ ShallowWrapper {
         </Col>,
         <Col
           borderColor="neutral-6"
-          bottomSpacing={undefined}
-          flex={undefined}
-          fullwidth={undefined}
-          largeCols={undefined}
-          mediumCols={undefined}
           smallCols={1}
-          xLargeCols={undefined}
-          xxLargeCols={undefined}
         >
           <div
             className="child"
@@ -1761,14 +1590,7 @@ ShallowWrapper {
         "children": Array [
           <Col
             borderColor="neutral-6"
-            bottomSpacing={undefined}
-            flex={undefined}
-            fullwidth={undefined}
-            largeCols={undefined}
-            mediumCols={undefined}
             smallCols={1}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="child"
@@ -1776,14 +1598,7 @@ ShallowWrapper {
           </Col>,
           <Col
             borderColor="neutral-6"
-            bottomSpacing={undefined}
-            flex={undefined}
-            fullwidth={undefined}
-            largeCols={undefined}
-            mediumCols={undefined}
             smallCols={1}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="child"
@@ -1791,14 +1606,7 @@ ShallowWrapper {
           </Col>,
           <Col
             borderColor="neutral-6"
-            bottomSpacing={undefined}
-            flex={undefined}
-            fullwidth={undefined}
-            largeCols={undefined}
-            mediumCols={undefined}
             smallCols={1}
-            xLargeCols={undefined}
-            xxLargeCols={undefined}
           >
             <div
               className="child"
