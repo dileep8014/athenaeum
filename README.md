@@ -150,10 +150,9 @@ The RCL uses the following for testing. If you want to learn more about them and
 - atoms (Buttons, Icons, Text, etc.)
 - molecules (Form Fields, Lists, Image Asides, etc.)
 - organisms (Forms, Tables, etc.)
-- templates (Headers, Navigators, Footers, etc.)
 ```
 
-Our RCL is structured around the concepts put forth by [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/). The smallest components are **ATOMS**, which are used to make **MOLECULES**, which are used to make **ORGANISMS**, which are lastly used to make **TEMPLATES**.
+Our RCL is structured around the concepts put forth by [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/). The smallest components are **ATOMS**, which are used to make **MOLECULES**, which are used to make **ORGANISMS**.
 
 ## Adding New Icons
 

@@ -12,5 +12,4 @@ Atomic Design is a methodology for thinking about UIs as thoughtful hierarchies.
 * **Atoms**  (the smallest atomic unit for components)  
 * Molecules
 * Organisms
-* Templates
 * **Pages** (composed from other components)
